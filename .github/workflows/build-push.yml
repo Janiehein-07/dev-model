@@ -24,6 +24,6 @@ jobs:
          with:
            context: .
            push: true
-           tags: janiehein/dev-model:latest
+           tags: janiehein/dev-model:latest.
 
          
